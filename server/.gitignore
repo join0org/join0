@@ -1,7 +1,9 @@
+.venv/
 .env.local
 .env
 .env.example
 __pycache__
 .embedding_cache/
 chroma_db/
-data
+data/
+dist/
